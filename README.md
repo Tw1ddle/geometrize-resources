@@ -1,6 +1,6 @@
 [![Project logo](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/logo.png?raw=true "Geometrize Haxe Resources - recreating images as geometric shapes logo")](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
 
-A curated set of useful resources for Geometrize, a tool for recreating images using geometric primitives.
+A curated set of useful resources for [Geometrize](https://github.com/Tw1ddle/geometrize-haxe), a tool for recreating images using geometric primitives.
 
 [![Geometrized Salad Ingredients](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/salad.jpg?raw=true "Geometrized Salad")](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
 
@@ -24,6 +24,6 @@ A curated set of useful resources for Geometrize, a tool for recreating images u
  * [Geometrize Resources](https://github.com/Tw1ddle/geometrize-resources)
  * [Geometrize Templates](https://github.com/Tw1ddle/geometrize-templates)
 
-## Similar Projects
+## Related Projects
  * [Primitive](https://github.com/fogleman/primitive/)
  * [Primitive JavaScript](https://github.com/ondras/primitive.js)
