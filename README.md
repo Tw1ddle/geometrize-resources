@@ -9,7 +9,7 @@ A curated set of useful resources for Geometrize, a tool for recreating images u
  * [HaxeFlixel Demo](http://samcodes.co.uk/project/geometrize-haxe-flixel/)
 
 ## Image Resources
- * [Sample Images](https://github.com/Tw1ddle/geometrize-resources/images)
+ * [Sample Images](https://github.com/Tw1ddle/geometrize-resources/blob/master/images)
  * [Pexels - Free Stock Photos](https://www.pexels.com/)
  * [Unsplash - Free High-resolution Photos](https://unsplash.com/)
  * [Flickr - Public Domain Group](https://www.flickr.com/groups/publicdomain/)
