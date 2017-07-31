@@ -1,12 +1,12 @@
-[![Project logo](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/logo.png?raw=true "Geometrize Haxe Resources - recreating images as geometric shapes logo")](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
+[![Project logo](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/logo.png?raw=true "Geometrize Resources - recreating images as geometric shapes logo")](http://www.geometrize.co.uk/)
 
-A curated set of useful resources for [Geometrize](https://github.com/Tw1ddle/geometrize-haxe), a tool for recreating images using geometric primitives.
+A curated set of resources for [Geometrize](http://www.geometrize.co.uk/), a tool for recreating images using geometric primitives.
 
-[![Geometrized Salad Ingredients](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/salad.jpg?raw=true "Geometrized Salad")](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
+[![Geometrized Salad Ingredients](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/salad.jpg?raw=true "Geometrized Salad")](http://www.geometrize.co.uk/)
 
 ## Demos
- * [Interactive Web Demo](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
- * [HaxeFlixel Demo](http://samcodes.co.uk/project/geometrize-haxe-flixel/)
+ * [Interactive Geometrize Haxe Web Demo](http://www.samcodes.co.uk/project/geometrize-haxe-web/)
+ * [HaxeFlixel Geometrize Demo](http://samcodes.co.uk/project/geometrize-haxe-flixel/)
 
 ## Image Resources
  * [Sample Images](https://github.com/Tw1ddle/geometrize-resources/blob/master/images)
@@ -23,7 +23,6 @@ A curated set of useful resources for [Geometrize](https://github.com/Tw1ddle/ge
  * [Geometrize HaxeFlixel Demo](https://github.com/Tw1ddle/geometrize-haxe-demo)
  * [Geometrize Resources](https://github.com/Tw1ddle/geometrize-resources)
  * [Geometrize Templates](https://github.com/Tw1ddle/geometrize-templates)
-
-## Related Projects
- * [Primitive](https://github.com/fogleman/primitive/)
- * [Primitive JavaScript](https://github.com/ondras/primitive.js)
+ 
+## Tutorials
+Coming soon.
