@@ -1,6 +1,6 @@
 [![Project logo](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/logo.png?raw=true "Geometrize Resources - recreating images as geometric shapes logo")](http://www.geometrize.co.uk/)
 
-A curated set of resources for [Geometrize](http://www.geometrize.co.uk/), a tool for recreating images using geometric primitives. View the resources page [here](http://resources.geometrize.co.uk).
+A set of curated resources for [Geometrize](http://www.geometrize.co.uk/), an app for recreating images with geometric primitives. View the resources [here](http://resources.geometrize.co.uk).
 
 [![Geometrized Salad Ingredients](https://github.com/Tw1ddle/geometrize-resources/blob/master/screenshots/salad.jpg?raw=true "Geometrized Salad")](http://www.geometrize.co.uk/)
 
