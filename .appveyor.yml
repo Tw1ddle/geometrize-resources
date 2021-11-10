@@ -1,0 +1,14 @@
+branches:
+  only:
+    - master
+
+image:
+  - Ubuntu2004
+
+environment:
+  GITHUB_API_KEY:
+    secure: w1zaTUARBAuhkAKUke5sBvSkVtlDGL8YfQxROzv5oGIynVJImn+KWGFVDxyjQore
+
+# Doing nothing here currently, since we do not have to build this site, it's all static (and hosted from the docs/ folder)
+build_script:
+  - cd $APPVEYOR_BUILD_FOLDER
